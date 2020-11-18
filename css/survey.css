@@ -1,0 +1,69 @@
+body{
+    background: linear-gradient(#88ccdd 0%,#00b7ea);
+    font-size: 20px;
+    line-height: 1.8;
+    font-family: 'Ubuntu', sans-serif;
+  }
+  
+  /* navbar */
+  .navbar{
+      background-color: rgba(0,123,255,0.9);
+      margin: 0 auto;
+      font-weight: bold;
+      padding: 0.5% 5%;
+  }
+  .nav-link{
+      margin: 10px;
+      color: black;
+  }
+  .dropdown-menu{
+      background-color: rgba(0,123,255,0.5);
+  }
+  .dropdown-item{
+      color: #fff;
+  }
+  .navbar-brand{
+      font-size: 2rem;
+  }
+  .container1{
+       padding:90px;
+  }
+  .head{
+      font-size:40px;
+      font-weight: bold;
+      font-variant: small-caps;
+      font-style:oblique;
+      text-decoration: underline;
+      text-align:center;
+  }
+  
+  .question-question{
+    font-size: 36px;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .question-options{
+    position: relative;
+    left: 50px;
+  }
+  label{
+    font-size: 25px;
+  }
+  .btn{
+    margin: 8% auto;
+    padding: 5% auto;
+  }
+  .result{
+    font-size:40px;
+    font-weight: bold;
+  }
+  .ana{
+    font-size:40px;
+    font-weight: bold;
+  }
+  hr{
+      margin-top: 50px;
+      margin-bottom: 50px;
+     border-color: black;
+     border-width: 0.3rem;
+      
+  }
