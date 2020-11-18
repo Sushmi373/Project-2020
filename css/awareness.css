@@ -29,12 +29,12 @@ body, html {
 }
 
 .intro {
-    background-image: url("https://github.com/Sushmi373/project-2020/blob/master/water.png?raw=true");
+    background-image: url("water.png");
     min-height: 100%;
 }
 
 .img2 {
-    background-image: url("https://github.com/Sushmi373/project-2020/blob/master/water5.png?raw=true");
+    background-image: url("water5.png");
     min-height: 40%;
 }
 
@@ -43,7 +43,7 @@ body, html {
     min-height: 60%;
 }
 .img4{
-    background-image: url("https://github.com/Sushmi373/project-2020/blob/master/water1.png?raw=true");
+    background-image: url("water1.png");
     min-height: 40%;
 }
 
