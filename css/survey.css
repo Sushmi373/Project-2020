@@ -26,7 +26,7 @@ body{
       font-size: 2rem;
   }
   .container1{
-       padding:90px;
+       padding:110px;
   }
   .head{
       font-size:40px;
@@ -60,6 +60,9 @@ body{
     font-size:40px;
     font-weight: bold;
   }
+.ana1{
+    font-size:27px;
+}
   hr{
       margin-top: 50px;
       margin-bottom: 50px;
