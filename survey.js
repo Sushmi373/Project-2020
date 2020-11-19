@@ -25,7 +25,7 @@ function find_score(){
             ans8_value=ans[i].value;
         }
         
-    }
+    }}
     
     score=(parseInt(ans1_value) + parseInt(ans2_value) + parseInt(ans3_value) + parseInt(ans4_value) + parseInt(ans5_value) + parseInt(ans6_value) + parseInt(ans7_value) + parseInt(ans8_value))*100/80;
     document.getElementById('result').innerHTML=score;
