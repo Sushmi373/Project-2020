@@ -32,7 +32,7 @@ function find_score(){
 
     if(parseInt(ans1_value)<5)
     {
-        document.getElementById('q1').innerHTML="Try shaving atleast three minutes off your shower to help reduce your water usage. Delivering, treating, and heating the hot water for your shower is pretty energy intensive.";
+        document.getElementById('q1').innerHTML="Try saving atleast three minutes off your shower to help reduce your water usage. Delivering, treating, and heating the hot water for your shower is pretty energy intensive.";
     }
     if(parseInt(ans2_value)<5)
     {
